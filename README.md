@@ -29,9 +29,9 @@ This project ranks performance across three different CPU architectures:
 
 | Segment | CPU Model | Cores/Threads | Architecture |
 | :--- | :--- | :--- | :--- |
-| **Desktop** | Intel Core Ultra 9 [Model] | [XX] / [XX] | **Hybrid** (Arrow Lake) - High Performance |
+| **Desktop** | Intel Core Ultra 9 285K | 24 / 24 | **Hybrid** (Arrow Lake) - High Performance |
 | **Laptop** | AMD Ryzen 9 7940HS | 8 / 16 | **Traditional** - High Efficiency |
-| **Server/Edge** | Intel Pentium Silver J5040 | 4 / 4 | **Low Power** - Entry Level |
+| **Server/Edge** | Intel Core I7 11th | 4 / 4 | **Low Power** - Entry Level |
 
 ## 📊 How to Run
 The project includes an automated script that compiles the C code, verifies correctness, and runs the full benchmark suite.
